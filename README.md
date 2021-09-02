@@ -2,6 +2,9 @@
 
 Simple REST API to protect your webhook
 
+Code is ugly as hell ik
+
+And please make issues if you have any suggestions
 	
 ## Overview
 	
@@ -87,3 +90,7 @@ And you will get a json array as a response
     }
 ]
 ```
+
+## TODO
+* Improve anti-spamming solution
+* MAKE THE CODE LOOK BETTER
