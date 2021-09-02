@@ -22,7 +22,7 @@ WEBHOOK_URL=your webhook
 PORT=:8080 # port you wanna use
 AUTH_KEY=STRONGKEYNGL # To get all the users don't share it
 ```
- Open a terminal where the project is located and make sure to have Go installed and configured !
+ Open a terminal where the project is located, make sure to have Go installed and configured !
  Then run 
  ```
  go mod tidy
