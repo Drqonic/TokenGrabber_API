@@ -94,3 +94,4 @@ And you will get a json array as a response
 ## TODO
 * Improve anti-spamming solution
 * MAKE THE CODE LOOK BETTER
+* Add more info on user
