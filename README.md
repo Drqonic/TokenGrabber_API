@@ -71,7 +71,7 @@ Both jsons are valid and produce these results:
 
 ![host](https://media.discordapp.net/attachments/870608841623085100/883086271285719140/Discord_vWg722q0mQ.png)
  
-You would like to get all the data from your users ? Just use the `/api/users` endpoint with a GET request. 
+You would like to get all the data from your users ? Make a GET request to the endpoint `/api/users` 
 
 Note that you will need to pass in the **AUTH_KEY** you added in your .env file in the Authorization header.
 
